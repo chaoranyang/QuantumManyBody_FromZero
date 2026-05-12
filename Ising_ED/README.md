@@ -124,3 +124,7 @@ $$
 - **磁化强度与方差图**：左图为不同 $N$ 下的磁化 ，右图为对应的方差，均在 $h=1$ 附近观察到相变特征与有限尺寸效应。
 - **数据塌缩图**：使用最优 $\beta,\nu$ 将不同尺寸的磁化强度数据变换到同一标度曲线，同时展示二次拟合结果与 $R^2$ 值。
 - **参数搜索结果**：输出最优 $\beta$、 $\nu$ 及拟合系数 $C_0, C_1, C_2$ ，并与理论值（ $\beta=0.125$ , $\nu=1.000$ ）比较相对误差。
+
+## 参考资料
+
+- **A. W. Sandvik, A. Avella, and F. Mancini, "Computational Studies of Quantum Spin Systems," in *AIP Conference Proceedings*, 2010, pp. 135–338. DOI: [10.1063/1.3518900](http://dx.doi.org/10.1063/1.3518900)**
