@@ -61,7 +61,7 @@ Key problems addressed by this code:
   - `getphi(psi)`: compute the order parameter $\phi = \langle \hat{b} \rangle$;
   - `self_consistent(mu, J, phi_ini)`: perform self-consistent iteration and return the converged $\phi$;
   - parameter scanning and data generation;
-  - plotting: phase diagram and fixed-$ \mu $ cross-section curves.
+  - plotting: phase diagram and fixed- $\mu$ cross-section curves.
 
 ---
 
