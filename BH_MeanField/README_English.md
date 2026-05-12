@@ -1,8 +1,7 @@
 # Mean-field Self-consistent Algorithm for Bose-Hubbard Model: Qualitative Phase Diagram
 ![Phase Diagram](figure_result.png)
 
-This project solves the superfluid order parameter of the Bose-Hubbard model via mean-field self-consistent iteration, scans the parameter space of hopping energy $J$ and chemical potential $\mu$, plots the Mott insulator–superfluid phase diagram based on an order-parameter threshold, and analyzes the phase transition behavior at fixed chemical potentials.
-
+This project solves the superfluid order parameter of the Bose-Hubbard model via mean-field self-consistent iteration, scans the parameter space of hopping energy $J$ and chemical potential $\mu$, plots the Mott insulator–superfluid phase diagram based on an order-parameter threshold, and analyzes the phase transition behavior at fixed chemical potentials
 ---
 
 ## Physical Background
