@@ -12,7 +12,7 @@ $$
 H = -\frac{\hbar^2 }{2m}\sum_{i=1}^N \frac{\partial^2} {\partial x_i^2} + g \sum_{i < j} \delta(x_i-x_j)
 $$
 
-其中 $g$ 为相互作用强度，$m$ 为粒子质量。无量纲相互作用参数定义为
+其中 $g$ 为相互作用强度， $m$  为粒子质量。无量纲相互作用参数定义为
 
 $$
 \gamma = \frac{mg}{\hbar^2 n},
