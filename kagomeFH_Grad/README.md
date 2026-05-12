@@ -108,3 +108,7 @@ $$
   图三给出 $q_{iy}$ 的行为，与系统对称性一致。
 
   数值结果清晰复现了 Kagome Hubbard 模型中自旋密度波态的相变特征。
+---
+
+## 参考资料
+- **Patrik Fazekas**, *Lecture Notes on Electron Correlation and Magnetism*, in *Series in Modern Condensed Matter Physics*, Vol. 5, World Scientific, 1999, pp. 1-796.
