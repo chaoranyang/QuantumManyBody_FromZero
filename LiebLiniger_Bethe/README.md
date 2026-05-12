@@ -1,7 +1,7 @@
 # Bethe ansatz 求解一维 Lieb-Liniger 模型状态方程
+![状态方程对比图](figure_result.png)
 
 本项目通过数值求解 Bethe ansatz 积分方程，计算一维玻色气体Lieb‑Liniger模型的基态能量，化学势，绘制状态方程曲线，并与弱耦合与强耦合极限下的渐近结果对比。
-![状态方程对比图](figure_result.png)
 ---
 
 ## 物理背景
