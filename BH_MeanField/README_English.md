@@ -77,8 +77,8 @@ Key problems addressed by this code:
 
 1. **Clone the repository** (or download the files):
    ```bash
-   git clone https://github.com/chaoranyang/QuantumManyBody_FromZreo.git
-   cd QuantumManyBody_FromZreo/BH_MeanField
+   git clone https://github.com/chaoranyang/QuantumManyBody_FromZero.git
+   cd QuantumManyBody_FromZero/BH_MeanField
 2. **Install dependencies:**
    ```bash
    pip install numpy matplotlib SciencePlots
