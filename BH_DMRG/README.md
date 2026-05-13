@@ -214,8 +214,8 @@ $$
 
 1. **克隆仓库**（或下载文件）：
    ```bash
-   git clone https://github.com/chaoranyang/QuantumManyBody_FromZreo.git
-   cd QuantumManyBody_FromZreo/BH_DMRG
+   git clone https://github.com/chaoranyang/QuantumManyBody_FromZero.git
+   cd QuantumManyBody_FromZero/BH_DMRG
 2. **安装依赖**：
    ```bash
    pip install numpy matplotlib SciencePlots
