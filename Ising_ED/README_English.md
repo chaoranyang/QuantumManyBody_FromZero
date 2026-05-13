@@ -110,8 +110,8 @@ Python 3.7 or higher is recommended.
 ## Quick Start
   1. **Clone the repository** (or download the files):
      ```bash
-     git clone https://github.com/chaoranyang/QuantumManyBody_FromZreo.git
-     cd QuantumManyBody_FromZreo/Ising_ED
+     git clone https://github.com/chaoranyang/QuantumManyBody_FromZero.git
+     cd QuantumManyBody_FromZero/Ising_ED
  2. **Install dependencies:**
     ```bash
     pip install numpy matplotlib
