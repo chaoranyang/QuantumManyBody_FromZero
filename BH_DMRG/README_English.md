@@ -149,6 +149,8 @@ All these initial MPS have bond dimension 1. During subsequent two-site DMRG opt
 
 ### 3. Two‑Site DMRG (vMPS) Procedure (see Schollwöck’s famous review for a more detailed introduction)
 
+![vMPS](fig4.png)
+
 Modern DMRG can be understood as a tensor network algorithm: the many-body Hamiltonian and state are decomposed into small tensors local to each site (called MPO and MPS respectively), and expectation values are computed via tensor contractions (which look like networks). Solving for the global ground state then reduces to sequentially visiting each site’s MPS tensor, contracting its surrounding “environment” (i.e., all MPO and MPS tensors except itself) to form an effective Hamiltonian, and finding the smallest eigenvector as the optimized tensor for that site.
 
 The two‑site algorithm allows dynamic adjustment of the bond dimension between neighboring MPS tensors. At each step it merges two adjacent sites into a larger tensor, optimizes it, then performs an SVD decomposition and discards parts with small singular values. This reduces the number of tensors to be summed over. This step is directly related to quantum entanglement – the discarded parts are entanglement degrees of freedom that contribute negligibly to the current state. The specific procedure includes:
